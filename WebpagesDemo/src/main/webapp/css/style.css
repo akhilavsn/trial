@@ -1,0 +1,11 @@
+#sampleid{
+    color:red;
+}
+.sampleclass{
+    color: blue;
+}
+body{
+    background-image: url();
+    background-repeat: no repeat;
+    background-size: 90px 80px;
+}

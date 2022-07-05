@@ -1,0 +1,30 @@
+.req{
+    border: 2px solid red;
+}
+input[type=text]{
+    color: blue;
+}
+input[type=button]{
+    background-color: green;
+}
+select{
+        width: 150px;
+        padding: 10px 20px;
+        border-radius: 4px;
+        background-color: azure;
+}
+div{
+    width: 70%;
+    padding: 5%;
+}
+input[type=submit],input[type=reset]{
+    background-color: aqua;
+    color:black;
+}
+textarea{
+    width: 40%;
+    height: 50px;
+    padding: 5px 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}

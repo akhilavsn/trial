@@ -1,0 +1,18 @@
+div{
+    color: brown;
+    border: 2px solid pink;
+    background-color: beige;
+    width: 50%;   
+}
+/* rgb*/
+body{
+    background-color: chocolate;
+}
+h1{
+    background-color: blueviolet;
+    width: 50%;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid olivedrab
+}

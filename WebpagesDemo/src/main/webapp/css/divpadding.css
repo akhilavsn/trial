@@ -1,0 +1,33 @@
+div{
+    padding-top: 50px;
+    padding-right: 25px ;
+    padding-left: 50px;
+    padding-bottom: 75px;
+    border: 2px solid green;
+}
+p{
+    border: 2px solid red;
+    outline-style: double;
+    outline-width: thick;
+    padding-left: 50px;
+    padding-top: 50px ;
+    padding-bottom: 50px ;
+    padding-top: 50px;
+}
+ol{
+    background: pink;
+    padding: 20px;
+    width: 150px;
+} 
+ul{
+    background: rgba(0, 162, 255, 0.719);
+    padding:20px;
+}
+li{
+    background: #ff331f;
+    color: gray;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: solid;
+
+}

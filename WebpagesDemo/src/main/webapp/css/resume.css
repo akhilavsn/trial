@@ -1,0 +1,18 @@
+h1{
+    color: brown;
+    border: 2px solid pink;
+    background-color: beige;
+    width: 50%;  
+    padding-bottom: 15%; 
+    padding-top: 15%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+table{
+    box-shadow: 12px;
+    background-color: aquamarine;
+
+}
+*{
+    background-color: blanchedalmond;
+}
